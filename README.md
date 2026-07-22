@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome!
 
-<!--
-**mitchbaum/mitchbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mitch. I like to reduce frustrations by making things work the way I want. 
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project      | Description | Stack |
+|--------------|-------------|-------|
+| Forkfolio <br> [iOS](https://github.com/mitchbaum/forkfolio-ios) <br> [API](https://github.com/mitchbaum/forkfolio/tree/main/api) <br> [Web UI](https://github.com/mitchbaum/forkfolio/tree/main/ui)  | Cloud based iOS and Web App to scrape recipe information given a URL | Swift · TypeScript · Svelte · REST · PostGres · ElysiaJS |
+| [RiseAndGrind](https://github.com/mitchbaum/Rise-and-Grind-iOS-App) | Cloud based iOS App to log exercises and workouts with charting, alerts, and various customization | Swift · GCS · Firebase |
+| RoofTracker <br> [iOS](https://github.com/mitchbaum/Roof-Tracker---Firebase-Rebuild) <br> [Web UI + API](https://github.com/mitchbaum/RoofTracker-Web-App) | Cloud based iOS and Web Dashboard App to manage payments for a company's construction projects | Swift · React · GCS · Firebase |
+
+---

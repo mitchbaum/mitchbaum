@@ -29,9 +29,8 @@ I'm Mitch. I like to reduce frustrations by making things work the way I want.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mitchbaum/Rise-and-Grind-iOS-App">
-          <strong>RiseAndGrind</strong>
-        </a>
+        <strong>RiseAndGrind</strong><br>
+        &gt; <a href="https://github.com/mitchbaum/Rise-and-Grind-iOS-App">iOS</a>
       </td>
       <td>
         Cloud based iOS App to log exercises and workouts with charting, alerts, and various customization

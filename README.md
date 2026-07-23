@@ -24,7 +24,7 @@ I'm Mitch. I like to reduce frustrations by making things work the way I want.
         Cloud based iOS and Web App to scrape recipe information given a URL
       </td>
       <td>
-        Swift &middot; TypeScript &middot; Svelte &middot; REST &middot; PostgreSQL &middot; ElysiaJS
+        Swift &middot; TypeScript &middot; Svelte &middot; REST &middot; PostgreSQL &middot; ElysiaJS &middot; Bun
       </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ I'm Mitch. I like to reduce frustrations by making things work the way I want.
         Cloud based iOS and Web Dashboard App to manage payments for a company's construction projects
       </td>
       <td>
-        Swift &middot; React &middot; GCS &middot; Firebase
+        Swift &middot; React &middot; GCS &middot; Firebase &middot; Node
       </td>
     </tr>
   </tbody>
